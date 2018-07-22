@@ -1,7 +1,7 @@
 [![license_badge](https://img.shields.io/github/license/chillheart/mongo.svg)](https://github.com/chillheart/mongo/blob/master/LICENSE)
 [![docker_build_badge](https://img.shields.io/docker/automated/chillheart/mongo.svg)](https://hub.docker.com/r/chillheart/mongo/)
 
-This repository contains Dockerfile for [MongoDB 3.6](https://www.mongodb.org)
+This repository contains Dockerfile for [MongoDB 4.0](https://www.mongodb.org)
 container, based on the [Alpine](https://hub.docker.com/_/alpine/) image.
 
 ## Install
