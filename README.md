@@ -1,2 +1,1 @@
-# mongo
-MongoDB Alpine docker image
+# MongoDB Alpine docker image
